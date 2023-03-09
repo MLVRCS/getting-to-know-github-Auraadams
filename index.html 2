@@ -1,0 +1,70 @@
+!DOCTYPE html>
+<html>
+<head>
+  
+  <title>Aura pages</title>
+
+<! -- Link Style -->
+
+<style>
+a:link, a:visited {
+  background-color:#EE40EC   ;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: ;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #E890E0;
+}
+</style>
+</head>
+<body>
+
+
+<center><h1 style="background-color:Violet;">My Site About nalis </h1></center>
+
+<p> This is my website about different nails . </p>
+
+
+
+<! -- Link Buttons -->
+
+<center>
+
+<a href=https://www.instagram.com/bellanaillounge/?hl=en="_blank">neil's places </a>
+
+<a href="https://www.pinterest.com/pin/paid-link-nails-acrylic-are-nail-enhancements-made-by-combining-a-liquid-acrylic-product-with-a-in-2022--172051648256482226" target="_blank">Nails ideas </a>
+
+<a href="https://nextdoor.com/pages/lovely-nice-salon-newark-nj/" target="_blank">Nails </a>
+
+</center>
+
+
+
+<h2 style="background-color:LightGray;"><center>square Nails</h2>
+<center><img src =https://www.fabmood.com/inspiration/wp-content/uploads/2022/05/trendy-flower-nails-3.jpg width=300></center>
+
+<p> Square nails are square — they're flat on top with straight, sharp corners. They neither flare out nor taper in and are a popular shape for those with short nails or long, narrow nail beds. Most Popular.</p>
+
+
+
+<h2 style="background-color:Violet;">round nails </h2>
+
+<center><img src =https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMRFNGQDgvwGTaCrSKKgc98sXIBFFWb3vM91rZ2wxIBxjKQAkWpQnOdF9F0wkIuCif1Hs&usqp= width=300></center>
+
+<p> Similar to a square-shaped nail, round nails have straight sides but are rounded off at the edges. Round and almond shapes elongates your nail beds to make them appear wider and more slender. </p>
+
+
+
+<h2 style="background-color:LightGray;">Almond nails. </h2>
+
+<center><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxOMe7TzyIBMJLMVWfa5lXZFbMjyHtH8zUmbhREeZxOGfeDzXo18MgTxfygk99H4JEQU&usqp= width=300></center>
+
+<p>So what are stiletto nails exactly? They're basically nails that have been filed or sculpted to a smooth, thin point. A lot of Internet nail-lovers rock almond, coffin (ballerina), or similarly pointy nails and call them stiletto nails in error.</p>
+
+
+</body>
+</html>
